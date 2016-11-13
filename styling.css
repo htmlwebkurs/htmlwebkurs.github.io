@@ -1,0 +1,41 @@
+body { 
+    margin:0; 
+    background-color: #EEDDDD;
+    font-family: sans-serif;
+}
+
+#page{
+    width: 650px;
+    padding: 40px 60px 40px 60px;
+    margin: auto;
+    background-color: white;
+}
+
+h1{
+    font-size: 64px;
+    color: #CC0000;
+}
+
+.button{
+    display: inline-block;
+    padding: 10px 30px 10px 30px;
+    text-align: center;
+    background-color: #CC7788;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.button:hover{
+    background-color: #FF7788;
+}
+
+img{
+    width: 100%;
+}
+
+.bildetekst{
+    font-size: 12px;
+    font-style: oblique;
+    margin: 0px;
+}
